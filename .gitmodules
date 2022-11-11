@@ -1,3 +1,4 @@
-[submodule "src/OrderCore"]
-	path = src/OrderCore
-	url = https://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@github.com/Orderbuddy-au/OrderCore.git
+
+[submodule "src/submodules/OrderCore"]
+	path = src/submodules/OrderCore
+	url = https://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@github.com/Orderbuddy-au/OrderCore.git
